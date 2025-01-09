@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Lockboxes """
 
+
 def canUnlockAll(boxes):
     """ Method that determines if all boxes can be opened """
 
